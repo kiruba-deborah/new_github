@@ -32,6 +32,11 @@ class Dashboard extends CI_Controller {
 
 	}
 
+	public function sample_github()
+	{
+
+	}
+
 	public function deo()
 	{
 		
