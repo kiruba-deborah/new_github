@@ -1,0 +1,5 @@
+https://github.com/me-pandiyarajan/inventory/tree/structure
+
+https://github.com/me-pandiyarajan/inventory
+
+php doctrine.php orm:convert-mapping --from-database annotation models/inventory
